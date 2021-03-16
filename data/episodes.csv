@@ -1,0 +1,74 @@
+﻿Season,Number,Title,Director,Writer,Date
+1,1,"""Winter Is Coming""",Tim Van Patten,David Benioff & D. B. Weiss,17/04/2011
+1,2,"""The Kingsroad""",Tim Van Patten,David Benioff & D. B. Weiss,24/04/2011
+1,3,"""Lord Snow""",Brian Kirk,David Benioff & D. B. Weiss,01/05/2011
+1,4,"""Cripples, Bastards, and Broken Things""",Brian Kirk,Bryan Cogman,01/05/2011
+1,5,"""The Wolf and the Lion""",Brian Kirk,David Benioff & D. B. Weiss,15/05/2011
+1,6,"""A Golden Crown""",Daniel Minahan,Story by: David Benioff & D. B. Weiss,22/05/2011
+1,7,"""You Win or You Die""",Daniel Minahan,David Benioff & D. B. Weiss,29/05/2011
+1,8,"""The Pointy End""",Daniel Minahan,George R. R. Martin,05/06/2011
+1,9,"""Baelor""",Alan Taylor,David Benioff & D. B. Weiss,12/06/2011
+1,10,"""Fire and Blood""",Alan Taylor,David Benioff & D. B. Weiss,19/06/2011
+2,1,"""The North Remembers""",Alan Taylor,David Benioff & D. B. Weiss,01/04/2012
+2,2,"""Nightlands""",Alan Taylor,David Benioff & D. B. Weiss,08/04/2012
+2,3,"""What Is Dead May Never Die""",Alik Sakharov,Bryan Cogman,15/04/2012
+2,4,"""Garden of Bones""",David Petrarca,Vanessa Taylor,22/04/2012
+2,5,"""The Ghost of Harrenhal""",David Petrarca,David Benioff & D. B. Weiss,29/04/2012
+2,6,"""The Old Gods and the New""",David Nutter,Vanessa Taylor,06/05/2012
+2,7,"""A Man Without Honor""",David Nutter,David Benioff & D.B. Weiss,13/05/2012
+2,8,"""The Prince of Winterfell""",Alan Taylor,David Benioff & D.B. Weiss,20/05/2012
+2,9,"""Blackwater""",Neil Marshall,George R. R. Martin,27/05/2012
+2,10,"""Valar Morghulis""",Alan Taylor,David Benioff & D. B. Weiss,03/06/2012
+3,1,"""Valar Dohaeris""",Daniel Minahan,David Benioff & D.B. Weiss,"March 31, 2013"
+3,2,"""Dark Wings, Dark Words""",Daniel Minahan,Vanessa Taylor,"April 7, 2013"
+3,3,"""Walk of Punishment""",David Benioff & D.B. Weiss,David Benioff & D.B. Weiss,"April 14, 2013"
+3,4,"""And Now His Watch Is Ended""",Alex Graves,David Benioff & D.B. Weiss,"April 21, 2013"
+3,5,"""Kissed by Fire""",Alex Graves,Bryan Cogman,"April 28, 2013"
+3,6,"""The Climb""",Alik Sakharov,David Benioff & D.B. Weiss,"May 5, 2013"
+3,7,"""The Bear and the Maiden Fair""",Michelle MacLaren,George R. R. Martin,"May 12, 2013"
+3,8,"""Second Sons""",Michelle MacLaren,David Benioff & D.B. Weiss,"May 19, 2013"
+3,9,"""The Rains of Castamere""",David Nutter,David Benioff & D.B. Weiss,"June 2, 2013"
+3,10,"""Mhysa""",David Nutter,David Benioff & D.B. Weiss,"June 9, 2013"
+4,1,"""Two Swords""",D.B. Weiss,David Benioff & D.B. Weiss,"April 6, 2014"
+4,2,"""The Lion and the Rose""",Alex Graves,George R.R. Martin,"April 13, 2014"
+4,3,"""Breaker of Chains""",Alex Graves,David Benioff & D.B. Weiss,"April 20, 2014"
+4,4,"""Oathkeeper""",Michelle McLaren,Bryan Cogman,"April 27, 2014"
+4,5,"""First of His Name""",Michelle McLaren,David Benioff & D.B. Weiss,"May 4, 2014"
+4,6,"""The Laws of Gods and Men""",Alik Sakharov,Bryan Cogman,"May 11, 2014"
+4,7,"""Mockingbird""",Alik Sakharov,David Benioff & D.B. Weiss,"May 18, 2014"
+4,8,"""The Mountain and the Viper""",Alex Graves,David Benioff & D.B. Weiss,"June 1, 2014"
+4,9,"""The Watchers on the Wall""",Neil Marshall,David Benioff & D.B. Weiss,"June 8, 2014"
+4,10,"""The Children""",Alex Graves,David Benioff & D.B. Weiss,"June 15, 2014"
+5,1,"""The Wars to Come""",Michael Slovis,David Benioff & D.B. Weiss,"April 12, 2015"
+5,2,"""The House of Black and White""",Michael Slovis,David Benioff & D.B. Weiss,"April 19, 2015"
+5,3,"""High Sparrow""",Mark Mylod,David Benioff & D.B. Weiss,"April 26, 2015"
+5,4,"""Sons of the Harpy""",Mark Mylod,Dave Hill,"May 4, 2015"
+5,5,"""Kill the Boy""",Jeremy Podeswa,Bryan Cogman,"May 10, 2015"
+5,6,"""Unbowed, Unbent, Unbroken""",Jeremy Podeswa,Bryan Cogman,"May 17, 2015"
+5,7,"""The Gift""",Miguel Sapochnik,David Benioff & D.B. Weiss,"May 24, 2015"
+5,8,"""Hardhome""",Miguel Sapochnik,David Benioff & D.B. Weiss,"May 31, 2015"
+5,9,"""The Dance of Dragons""",David Nutter,David Benioff & D.B. Weiss,"June 7, 2015"
+5,10,"""Mother's Mercy""",David Nutter,David Benioff & D.B. Weiss,"June 14, 2015"
+6,1,"""The Red Woman""[52]",Jeremy Podeswa,David Benioff & D.B. Weiss,"April 24, 2016"
+6,2,"""Home""[54]",Jeremy Podeswa,Dave Hill,"May 1, 2016"
+6,3,"""Oathbreaker""[54]",Daniel Sackheim,David Benioff & D. B. Weiss,"May 8, 2016"
+6,4,"""Book of the Stranger""[57]",Daniel Sackheim,David Benioff & D. B. Weiss,"May 15, 2016"
+6,5,"""The Door""[57][59]",Jack Bender,David Benioff & D. B. Weiss,"May 22, 2016"
+6,6,"""Blood of my Blood""[57][61]",Jack Bender,Bryan Cogman,"May 29, 2016"
+6,7,"""The Broken Man""[57][63]",Mark Mylod,Bryan Cogman,"June 5, 2016"
+6,8,No One[65],Mark Mylod,David Benioff & D. B. Weiss[66],"June 12, 2016"
+6,9,Battle of the Bastards,Miguel Sapochnik,David Benioff & D. B. Weiss,"June 19, 2016"
+6,10,The Winds of Winter,Miguel Sapochnik,David Benioff & D. B. Weiss,"June 26, 2016"
+7,1,"""Dragonstone""[71]",Jeremy Podeswa,David Benioff & D.B. Weiss,"July 16, 2017"
+7,2,"""Stormborn""[71]",Mark Mylod,Bryan Cogman,"July 23, 2017"
+7,3,"""The Queen's Justice""[71]",Mark Mylod,David Benioff & D. B. Weiss,"July 30, 2017"
+7,4,"""The Spoils of War""[75]",Matt Shakman,David Benioff & D. B. Weiss,"August 6, 2017"
+7,5,"""Eastwatch""[78]",Matt Shakman,Dave Hill,"August 13, 2017"
+7,6,"""Beyond the Wall""",Alan Taylor,David Benioff & D. B. Weiss,"August 20, 2017"
+7,7,"""The Dragon and the Wolf""",Jeremy Podeswa,David Benioff & D. B. Weiss,"August 27, 2017"
+8,1,"""Winterfell""",David Nutter,Dave Hill,"April 14, 2019"
+8,2,"""A Knight of the Seven Kingdoms""",David Nutter,Bryan Cogman,"April 21, 2019"
+8,3,"""The Long Night""",Miguel Sapochnik,David Benioff & D. B. Weiss,"April 28, 2019"
+8,4,"""The Last of the Starks""",David Nutter,David Benioff & D. B. Weiss,"May 5, 2019"
+8,5,"""The Bells""",Miguel Sapochnik,David Benioff & D. B. Weiss,"May 12, 2019"
+8,6,"""The Iron Throne""",David Benioff & D.B. Weiss,David Benioff & D. B. Weiss,"May 19, 2019"
