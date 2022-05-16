@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+BirdPackage.egg-info/PKG-INFO
+BirdPackage.egg-info/SOURCES.txt
+BirdPackage.egg-info/dependency_links.txt
+BirdPackage.egg-info/top_level.txt
+birds/__init__.py
+birds/bird.py
+birds/cage.py
